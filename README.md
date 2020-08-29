@@ -1,15 +1,15 @@
-Instructions md5.go
+## Instructions md5.go
 
-go build md5.go
+  go build md5.go
 
-USAGE :
+  USAGE :
 
-cat hello.txt | ./md5 or echo 1 | ./md5
+  cat hello.txt | ./md5 or echo 1 | ./md5
 
-Instructions dnsrecords.go
+## Instructions dnsrecords.go
 
-go build dnsrecords
+  go build dnsrecords
 
-USAGE :
+  USAGE :
 
-echo "example.com" | ./dnsrecords
+  echo "example.com" | ./dnsrecords
